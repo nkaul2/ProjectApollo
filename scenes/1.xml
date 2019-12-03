@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="4" extheight="800" extwidth="1344" extx="-32" exty="-32" format="4.0.1" gravx="-0.0" gravy="0.0" height="736" id="1" name="SpaceRocket" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="1280">
+    <layers>
+        <color-bg blue="255" green="255" red="255"/>
+        <background blendMode="normal" customScrollFactor="false" id="1" locked="true" name="SpaceBackground" opacity="100" order="2" rid="34" scrollFactorX="1.0" scrollFactorY="1.0" visible="false"/>
+        <background blendMode="normal" customScrollFactor="false" id="2" locked="true" name="Stars" opacity="100" order="1" rid="41" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="3" c="false" group="3" id="6" name="Asteroid 3" order="0" sx="1.0" sy="1.0" x="478" y="-153" z="0"/>
+        <actor a="0.0" aid="4" c="false" group="3" id="21" name="Rocket 4" order="1" sx="1.0" sy="1.0" x="610" y="455" z="0"/>
+    </actors>
+    <snippets>
+        <s enabled="true" id="20">
+            <prop id="1" list="0" val=""/>
+        </s>
+    </snippets>
+    <terrain/>
+    <atlases members="" retainAtlases="true"/>
+</scene>

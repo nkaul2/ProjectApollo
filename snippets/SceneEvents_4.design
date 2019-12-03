@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <event-delay comment="false" x="15" y="15">
+            <group eventID="1" id="-1">
+                <setgrav comment="false" x="26" y="42">
+                    <int id="0" val="0"/>
+                    <int id="1" val="2000"/>
+                </setgrav>
+            </group>
+            <int id="0" val="3"/>
+            <ACTOR eid="lastcreated" id="2"/>
+        </event-delay>
+    </group>
+    <group eventID="1" id="-1"/>
+    <group eventID="2" id="0">
+        <init comment="false" x="15" y="15">
+            <group eventID="2" id="-1">
+                <set-val-23-1 comment="false" x="26" y="40">
+                    <int id="0" val="0"/>
+                </set-val-23-1>
+                <set-val-23-2 comment="false" x="26" y="60">
+                    <int id="0" val="PREPARE FOR LANDING, WATCH FOR GRAVITY!"/>
+                </set-val-23-2>
+                <play-sound4 comment="false" x="26" y="80">
+                    <int id="0" val="1"/>
+                    <sound eid="67" id="1"/>
+                </play-sound4>
+            </group>
+        </init>
+    </group>
+    <group eventID="2" id="-1"/>
+    <group eventID="3" id="0">
+        <draw comment="false" x="15" y="15">
+            <group eventID="3" id="-1">
+                <set-font-new comment="false" x="26" y="40">
+                    <font eid="23" id="0"/>
+                </set-font-new>
+                <draw-text comment="false" x="26" y="67">
+                    <str-substring comment="false" id="0" x="0" y="0">
+                        <get-val-23-2 comment="false" id="0" x="0" y="0"/>
+                        <int id="1" val="0"/>
+                        <get-val-23-1 comment="false" id="2" x="0" y="0"/>
+                    </str-substring>
+                    <int id="1" val="50"/>
+                    <int id="2" val="32"/>
+                </draw-text>
+            </group>
+        </draw>
+    </group>
+    <group eventID="3" id="-1"/>
+    <group eventID="4" id="0">
+        <event-periodic comment="false" x="15" y="15">
+            <group eventID="4" id="-1">
+                <incdec comment="false" x="26" y="42">
+                    <int id="0" val="1"/>
+                    <int id="1" val="0"/>
+                    <int id="2" val="1"/>
+                </incdec>
+            </group>
+            <int id="0" val=".05"/>
+            <ACTOR eid="lastcreated" id="2"/>
+        </event-periodic>
+    </group>
+    <group eventID="4" id="-1"/>
+    <group eventID="5" id="0">
+        <event-collide-actortogroup comment="false" x="15" y="15">
+            <group eventID="5" id="-1">
+                <scene-change-through comment="false" x="26" y="47">
+                    <scene eid="5" id="0"/>
+                    <int id="1" val="0"/>
+                    <int id="2" val="1"/>
+                </scene-change-through>
+                <stop-sounds comment="false" x="26" y="74"/>
+            </group>
+            <ACTOR eid="1" id="0"/>
+            <actorgroup eid="1" id="1"/>
+        </event-collide-actortogroup>
+    </group>
+    <group eventID="5" id="-1">
+        <first-actor comment="false" x="357" y="22"/>
+    </group>
+</groups>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <init comment="false" x="15" y="15">
+            <group eventID="1" id="-1">
+                <create-actor3 comment="false" x="26" y="40">
+                    <actortype eid="35" id="0"/>
+                    <int id="1" val="150"/>
+                    <int id="2" val="600"/>
+                    <int id="3" val="0"/>
+                </create-actor3>
+                <dolater comment="false" x="26" y="67">
+                    <group eventID="1" id="-1">
+                        <create-actor3 comment="false" x="37" y="94">
+                            <actortype eid="55" id="0"/>
+                            <int id="1" val="200"/>
+                            <int id="2" val="544"/>
+                            <int id="3" val="0"/>
+                        </create-actor3>
+                        <set-dxy comment="false" x="37" y="121">
+                            <ACTOR eid="lastcreated" id="0"/>
+                            <int id="1" val="0"/>
+                            <int id="2" val="10"/>
+                        </set-dxy>
+                    </group>
+                    <int id="0" val="2"/>
+                    <ACTOR eid="lastcreated" id="2"/>
+                </dolater>
+                <dolater comment="false" x="26" y="160">
+                    <group eventID="1" id="-1">
+                        <set-dxy comment="false" x="37" y="187">
+                            <ACTOR eid="lastcreated" id="0"/>
+                            <int id="1" val="0"/>
+                            <int id="2" val="0"/>
+                        </set-dxy>
+                        <create-actor3 comment="false" x="37" y="214">
+                            <actortype eid="65" id="0"/>
+                            <int id="1" val="670"/>
+                            <int id="2" val="520"/>
+                            <int id="3" val="0"/>
+                        </create-actor3>
+                    </group>
+                    <int id="0" val="6"/>
+                    <ACTOR eid="lastcreated" id="2"/>
+                </dolater>
+            </group>
+        </init>
+    </group>
+    <group eventID="1" id="-1"/>
+</groups>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenes>
+    <scene desc="" format="4.0.1" id="1" name="SpaceRocket"/>
+    <scene desc="" format="4.0.1" id="2" name="MainMenu"/>
+    <scene desc="" format="4.0.1" id="3" name="Transition to final level"/>
+    <scene desc="" format="4.0.1" id="4" name="Landing Level"/>
+    <scene desc="" format="4.0.1" id="5" name="Final Scene"/>
+    <scene desc="" format="4.0.1" id="6" name="MainMenu_Start"/>
+    <scene desc="" format="4.0.1" id="7" name="Lab Level"/>
+    <scene desc="" format="4.0.1" id="8" name="Transition to lab level"/>
+</scenes>

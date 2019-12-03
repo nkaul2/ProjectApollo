@@ -1,0 +1,16 @@
+#
+#Mon Oct 07 18:54:13 EDT 2019
+style=plain
+alphabet=
+color=\#ffffff
+stroke.color=\#000000
+shadow.y=0
+family=Joystix.ttf
+shadow.x=0
+shadow.color=\#000000
+gradient.offset=0
+shadow.blur=0
+chars=all
+stroke.size=2
+antialias=true
+size=32

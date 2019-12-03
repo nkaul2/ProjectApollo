@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pack>
+    <font alphabet=" !&quot;#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſ" atlasID="0" desc="" height="74" id="23" name="Arcade White" offsets="0|0|0|,25|0|25,44|0|44,63|0|63,82|0|82,107|0|107,128|0|128,153|0|153,162|0|162,175|0|175,188|0|188,213|0|213,234|0|234,243|0|243,262|0|262,271|0|271,295|0|295,320|0|320,341|0|341,366|0|366,391|0|391,416|0|416,441|0|441,466|0|466,491|0|491,516|0|516,541|0|541,551|0|551,561|0|561,580|0|580,605|0|605,624|0|624,649|0|649,674|0|674,699|0|699,724|0|724,749|0|749,774|0|774,799|0|799,824|0|824,849|0|849,874|0|874,896|0|896,921|0|921,946|0|946,971|0|971,996|0|996,1021|0|1021,1046|0|1046,1071|0|1071,1096|0|1096,1121|0|1121,1146|0|1146,1167|0|1167,1192|0|1192,1217|0|1217,1242|0|1242,1267|0|1267,1288|0|1288,1313|0|1313,1328|0|1328,1352|0|1352,1367|0|1367,1386|0|1386,1411|0|1411,1426|0|1426,1451|0|1451,1476|0|1476,1501|0|1501,1526|0|1526,1551|0|1551,1576|0|1576,1601|0|1601,1626|0|1626,1648|0|1648,1673|0|1673,1698|0|1698,1723|0|1723,1748|0|1748,1773|0|1773,1798|0|1798,1823|0|1823,1848|0|1848,1873|0|1873,1898|0|1898,1919|0|1919,1944|0|1944,1969|0|1969,1994|0|1994,2019|0|2019,2040|0|2040,2065|0|2065,2078|0|2078,2123|0|2123,2136|0|2136,2157|0|2157,2158|0|2158,2159|0|2159,2160|0|2160,2161|0|2161,2162|0|2162,2163|0|2163,2164|0|2164,2165|0|2165,2166|0|2166,2167|0|2167,2168|0|2168,2169|0|2169,2170|0|2170,2171|0|2171,2172|0|2172,2173|0|2173,2174|0|2174,2175|0|2175,2176|0|2176,2177|0|2177,2178|0|2178,2179|0|2179,2180|0|2180,2181|0|2181,2182|0|2182,2183|0|2183,2184|0|2184,2185|0|2185,2186|0|2186,2187|0|2187,2188|0|2188,2189|0|2189,2190|0|2190,2191|0|2191,2210|0|2210,2237|0|2237,2238|0|2238,2239|0|2239,2264|0|2264,2269|0|2269,2270|0|2270,2281|0|2281,2307|0|2307,2308|0|2308,2326|0|2326,2347|0|2347,2348|0|2348,2374|0|2374,2375|0|2375,2376|0|2376,2377|0|2377,2378|0|2378,2379|0|2379,2394|0|2394,2395|0|2395,2396|0|2396,2397|0|2397,2406|0|2406,2407|0|2407,2420|0|2420,2439|0|2439,2440|0|2440,2441|0|2441,2442|0|2442,2467|0|2467,2492|0|2492,2517|0|2517,2542|0|2542,2567|0|2567,2592|0|2592,2617|0|2617,2658|0|2658,2683|0|2683,2708|0|2708,2733|0|2733,2758|0|2758,2783|0|2783,2805|0|2805,2827|0|2827,2849|0|2849,2871|0|2871,2897|0|2897,2922|0|2922,2947|0|2947,2972|0|2972,2997|0|2997,3022|0|3022,3047|0|3047,0|37|3048,25|37|3073,50|37|3098,75|37|3123,100|37|3148,125|37|3173,146|37|3194,147|37|3195,196|37|3244,221|37|3269,246|37|3294,271|37|3319,296|37|3344,321|37|3369,346|37|3394,387|37|3435,412|37|3460,437|37|3485,462|37|3510,487|37|3535,512|37|3560,534|37|3582,556|37|3604,578|37|3626,600|37|3648,625|37|3673,650|37|3698,675|37|3723,700|37|3748,725|37|3773,750|37|3798,775|37|3823,776|37|3824,801|37|3849,826|37|3874,851|37|3899,876|37|3924,901|37|3949,922|37|3970,923|37|3971,944|37|3992,945|37|3993,946|37|3994,947|37|3995,948|37|3996,949|37|3997,950|37|3998,951|37|3999,952|37|4000,953|37|4001,954|37|4002,955|37|4003,956|37|4004,957|37|4005,958|37|4006,959|37|4007,960|37|4008,961|37|4009,962|37|4010,963|37|4011,964|37|4012,965|37|4013,966|37|4014,967|37|4015,968|37|4016,969|37|4017,970|37|4018,971|37|4019,972|37|4020,973|37|4021,974|37|4022,975|37|4023,976|37|4024,977|37|4025,978|37|4026,979|37|4027,980|37|4028,981|37|4029,982|37|4030,983|37|4031,984|37|4032,985|37|4033,986|37|4034,987|37|4035,988|37|4036,989|37|4037,990|37|4038,991|37|4039,992|37|4040,993|37|4041,1015|37|4063,1016|37|4064,1017|37|4065,1018|37|4066,1019|37|4067,1020|37|4068,1021|37|4069,1022|37|4070,1023|37|4071,1024|37|4072,1025|37|4073,1026|37|4074,1027|37|4075,1028|37|4076,1029|37|4077,1030|37|4078,1031|37|4079,1032|37|4080,1033|37|4081,1034|37|4082,1035|37|4083,1036|37|4084,1037|37|4085,1038|37|4086,1039|37|4087,1040|37|4088,1041|37|4089,1042|37|4090,1043|37|4091,1044|37|4092,1045|37|4093,1046|37|4094,1047|37|4095,1088|37|4136,1128|37|4176,1129|37|4177,1130|37|4178,1131|37|4179,1132|37|4180,1133|37|4181,1134|37|4182,1135|37|4183,1136|37|4184,1137|37|4185,1138|37|4186,1139|37|4187,1140|37|4188,1165|37|4213,1190|37|4238,1191|37|4239,1192|37|4240,1193|37|4241,1194|37|4242,1195|37|4243,1196|37|4244,1197|37|4245,1198|37|4246,1199|37|4247,1200|37|4248,1201|37|4249,1202|37|4250,1203|37|4251,1204|37|4252,1205|37|4253,1206|37|4254,1207|37|4255,1208|37|4256,1209|37|4257,1210|37|4258,1211|37|4259,1212|37|4260" oid="-1" prerendered="false" readable="false" rowHeight="37" shared="false"/>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="1" continuous="true" desc="" eventsnippetid="3" fixedrot="false" fric="0.2" gid="3" id="6" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Asteroid" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="7" static="false">
+        <snippets>
+            <s enabled="true" id="19">
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
+        </snippets>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" id="7" name="Asteroid" readable="false" shared="false">
+        <anim across="1" down="1" durations="100" height="144" id="0" loop="true" name="Animation 0" numframes="1" originx="72" originy="72" sync="false" version="2" width="144">
+            <poly data="10,17,21,7,53,7,95,41,120,113,127,125,112,135,85,135,54,117,26,50,14" density="0.1" fric="0.2" gid="-1000" id="1" name="" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="1" continuous="true" desc="" eventsnippetid="13" fixedrot="false" fric="0.2" gid="3" id="28" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Asteroid1" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="29" static="false">
+        <snippets>
+            <s enabled="true" id="16">
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
+        </snippets>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" id="29" name="Asteroid1" readable="false" shared="false">
+        <anim across="1" down="1" durations="100" height="144" id="0" loop="true" name="Animation 0" numframes="1" originx="72" originy="72" sync="false" version="2" width="144">
+            <poly data="7,34,114,102,123,129,82,120,31,77,25,28,24,16,61" density="0.1" fric="0.2" gid="-1000" id="1" name="" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <music atlasID="0" desc="" id="67" loop="true" name="Background Music" oid="-1" pan="0" shared="false" stream="false" type="mp3" volume="1"/>
+    <tileset across="6" atlasID="0" desc="" down="11" id="2" name="Castle" oid="-1" readable="false" shared="false" th="32" tw="32">
+        <tile collision="1" data="" durations="100" frames="0" id="0" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="1" id="1" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="2" id="2" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="3" id="3" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="4" id="4" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="5" id="5" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="6" id="6" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="7" id="7" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="8" id="8" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="9" id="9" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="10" id="10" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="11" id="11" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="12" id="12" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="13" id="13" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="14" id="14" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="15" id="15" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="16" id="16" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="17" id="17" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="18" id="18" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="19" id="19" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="20" id="20" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="21" id="21" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="22" id="22" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="23" id="23" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="24" id="24" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="25" id="25" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="26" id="26" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="27" id="27" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="28" id="28" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="29" id="29" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="30" id="30" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="31" id="31" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="32" id="32" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="33" id="33" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="34" id="34" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="35" id="35" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="36" id="36" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="37" id="37" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="38" id="38" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="39" id="39" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="40" id="40" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="41" id="41" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="42" id="42" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="43" id="43" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="44" id="44" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="45" id="45" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="46" id="46" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="47" id="47" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="48" id="48" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="49" id="49" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="50" id="50" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="51" id="51" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="52" id="52" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="53" id="53" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="54" id="54" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="55" id="55" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="56" id="56" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="57" id="57" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="58" id="58" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="59" id="59" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="60" id="60" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="61" id="61" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="62" id="62" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="63" id="63" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="64" id="64" order="-1"/>
+        <tile collision="1" data="" durations="100" frames="65" id="65" order="-1"/>
+    </tileset>
+    <custom-block blocktag="custom-17" blocktype="ACTION" code=".say(&quot;Health Manager&quot;, &quot;_customBlock_Damage&quot;, []);" desc="Subtracts a specific amount of health from the Actor." global="false" gui="Damage %0 By %1" id="17" message="Damage" name="Damage" oid="-1" return="void" shared="false" snippetID="8">
+        <blank name="Self" order="0" type="actor"/>
+        <blank name="Amount" order="1" type="number"/>
+    </custom-block>
+    <background atlasID="0" desc="" durations="100" dx="-0.0" dy="-0.0" height="384" id="30" name="Deep Space" numframes="1" oid="-1" readable="false" repeats="false" resized="false" shared="false" width="640" xpf="0.0" ypf="0.0"/>
+    <background atlasID="0" desc="" durations="100" dx="0.0" dy="0.0" height="384" id="9" name="Deep Space 2" numframes="1" oid="-1" readable="false" repeats="true" resized="false" shared="false" width="640" xpf="10.0" ypf="10.0"/>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="41" fixedrot="false" fric="0.2" gid="3" id="68" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Finale_MusicCredits" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="69" static="true">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" id="69" name="Finale_MusicCredits" readable="false" shared="false">
+        <anim across="1" down="1" durations="100" height="180" id="0" loop="true" name="Animation 0" numframes="1" originx="135" originy="90" sync="false" version="2" width="270">
+            <poly data="4,0,0,270,0,270,180,0,180" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="35" fixedrot="false" fric="0.2" gid="3" id="57" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Finale_ReturnToTitle" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="58" static="true">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" id="58" name="Finale_ReturnToTitle" readable="false" shared="false">
+        <anim across="1" down="1" durations="100" height="32" id="0" loop="true" name="Animation 0" numframes="1" originx="90" originy="16" sync="false" version="2" width="180">
+            <poly data="4,0,0,180,0,180,32,0,32" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="33" fixedrot="false" fric="0.2" gid="3" id="53" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Finale_YouWIn" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="54" static="true">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" id="54" name="Finale_YouWIn" readable="false" shared="false">
+        <anim across="1" down="1" durations="100" height="90" id="0" loop="true" name="Animation 0" numframes="1" originx="112" originy="45" sync="false" version="2" width="225">
+            <poly data="4,0,0,225,0,225,90,0,90" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <sprite atlasID="0" default="4" defaultAnimation="4" desc="" id="40" name="Fire Left" readable="false" shared="false">
+        <anim across="1" down="1" durations="100" height="40" id="0" loop="true" name="1" numframes="1" originx="43" originy="20" sync="false" version="2" width="87">
+            <poly data="4,53,12,86,12,86,27,53,27" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+        <anim across="1" down="1" durations="100" height="40" id="1" loop="true" name="2" numframes="1" originx="43" originy="20" sync="false" version="2" width="87">
+            <poly data="4,43,10,87,10,87,30,43,30" density="0.1" fric="0.2" gid="-1000" id="0" name="1 Copy" rest="0.0" sensor="false"/>
+        </anim>
+        <anim across="1" down="1" durations="100" height="40" id="2" loop="true" name="3" numframes="1" originx="43" originy="20" sync="false" version="2" width="87">
+            <poly data="4,26,6,87,6,87,34,26,34" density="0.1" fric="0.2" gid="-1000" id="0" name="1 Copy Copy" rest="0.0" sensor="false"/>
+        </anim>
+        <anim across="1" down="1" durations="100" height="40" id="3" loop="true" name="4" numframes="1" originx="43" originy="20" sync="false" version="2" width="87">
+            <poly data="4,0,0,86,0,86,40,0,40" density="0.1" fric="0.2" gid="-1000" id="0" name="1 Copy Copy Copy" rest="0.0" sensor="false"/>
+        </anim>
+        <anim across="1" down="1" durations="100" height="40" id="4" loop="true" name="5" numframes="1" originx="43" originy="20" sync="false" version="2" width="87">
+            <poly data="4,12,0,87,0,87,40,12,40" density="0.1" fric="0.2" gid="-1000" id="0" name="1 Copy Copy Copy Copy" rest="0.0" sensor="false"/>
+        </anim>
+        <anim across="1" down="1" durations="100" height="40" id="5" loop="true" name="6" numframes="1" originx="43" originy="20" sync="false" version="2" width="87">
+            <poly data="4,35,0,87,0,87,40,35,40" density="0.1" fric="0.2" gid="-1000" id="0" name="1 Copy Copy Copy Copy Copy" rest="0.0" sensor="false"/>
+        </anim>
+        <anim across="1" down="1" durations="100" height="40" id="6" loop="true" name="7" numframes="1" originx="43" originy="20" sync="false" version="2" width="87">
+            <poly data="4,54,0,87,0,87,38,54,38" density="0.1" fric="0.2" gid="-1000" id="0" name="1 Copy Copy Copy Copy Copy Copy" rest="0.0" sensor="false"/>
+        </anim>
+        <anim across="1" down="1" durations="100" height="40" id="7" loop="true" name="8" numframes="1" originx="43" originy="20" sync="false" version="2" width="87">
+            <poly data="4,66,9,87,9,87,30,66,30" density="0.1" fric="0.2" gid="-1000" id="0" name="1 Copy Copy Copy Copy Copy Copy Copy" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="1" continuous="true" desc="" eventsnippetid="26" fixedrot="true" fric="0.2" gid="3" id="39" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Fire Right" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="40" static="false">
+        <snippets/>
+    </actor>
+    <custom-block blocktag="custom-15" blocktype="ACTION" code=".say(&quot;Health Manager&quot;, &quot;_customBlock_FullRestore&quot;);" desc="" global="false" gui="Restore %0 To Full Health" id="15" message="FullRestore" name="FullRestore" oid="-1" return="void" shared="false" snippetID="8">
+        <blank name="Self" order="0" type="actor"/>
+    </custom-block>
+    <custom-block blocktag="custom-20" blocktype="NORMAL" code="(.say(&quot;Health Manager&quot;, &quot;_customBlock_GetCurrentHealth&quot;) : Float)" desc="" global="false" gui="Current Health for %0" id="20" message="GetCurrentHealth" name="GetCurrentHealth" oid="-1" return="number" shared="false" snippetID="8">
+        <blank name="Self" order="0" type="actor"/>
+    </custom-block>
+    <custom-block blocktag="custom-18" blocktype="NORMAL" code="(.say(&quot;Health Manager&quot;, &quot;_customBlock_GetInvincibility&quot;) : Bool)" desc="" global="false" gui="%0 Is Invincible?" id="18" message="GetInvincibility" name="GetInvincibility" oid="-1" return="boolean" shared="false" snippetID="8">
+        <blank name="Self" order="0" type="actor"/>
+    </custom-block>
+    <custom-block blocktag="custom-19" blocktype="NORMAL" code="(.say(&quot;Health Manager&quot;, &quot;_customBlock_GetMaxHealth&quot;) : Float)" desc="" global="false" gui="Maximum Health For %0" id="19" message="GetMaxHealth" name="GetMaxHealth" oid="-1" return="number" shared="false" snippetID="8">
+        <blank name="Self" order="0" type="actor"/>
+    </custom-block>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="" eventsnippetid="24" fixedrot="false" fric="0.2" gid="3" id="37" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Gravity Rocket" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="38" static="false">
+        <snippets>
+            <s enabled="false" id="17">
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
+            <s enabled="true" id="2">
+                <prop id="32" list="0" val="down"/>
+                <prop id="2147483647" list="0" val="thisactor"/>
+                <prop id="33" list="0" val="left"/>
+                <prop id="34" list="0" val="right"/>
+                <prop id="38" list="0" val="0.0"/>
+                <prop id="39" list="0" val="0.0"/>
+                <prop id="40" list="0" val="true"/>
+                <prop id="11" list="0" val="50.0"/>
+                <prop id="44" list="0" val="false"/>
+                <prop id="45" list="0" val="false"/>
+                <prop id="46" list="0" val="true"/>
+                <prop id="47" list="0" val="false"/>
+                <prop id="49" list="0" val="false"/>
+                <prop id="50" list="0" val=""/>
+                <prop id="51" list="0" val=""/>
+                <prop id="52" list="0" val=""/>
+                <prop id="53" list="0" val=""/>
+                <prop id="54" list="0" val=""/>
+                <prop id="55" list="0" val=""/>
+                <prop id="56" list="0" val=""/>
+                <prop id="57" list="0" val=""/>
+                <prop id="58" list="0" val="true"/>
+                <prop id="31" list="0" val="up"/>
+            </s>
+            <s enabled="true" id="18">
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
+            <s enabled="false" id="6">
+                <prop id="2147483647" list="0" val="thisactor"/>
+                <prop id="2" list="0" val="0.0"/>
+            </s>
+            <s enabled="false" id="8">
+                <prop id="2147483647" list="0" val="thisactor"/>
+                <prop id="1" list="0" val="5"/>
+                <prop id="2" list="0" val="5"/>
+                <prop id="3" list="0" val="3.0"/>
+                <prop id="4" list="0" val="Healed"/>
+                <prop id="5" list="0" val="Damaged"/>
+                <prop id="7" list="0" val="Kill"/>
+                <prop id="8" list="0" val="false"/>
+                <prop id="9" list="0" val="1"/>
+                <prop id="10" list="0" val="true"/>
+                <prop id="11" list="0" val="false"/>
+                <prop id="12" list="0" val="Lives"/>
+                <prop id="13" list="0" val=""/>
+                <prop id="14" list="0" val="-1"/>
+                <prop id="15" list="0" val="-1"/>
+                <prop id="16" list="0" val="-1"/>
+                <prop id="17" list="0" val="false"/>
+                <prop id="18" list="0" val="0.0"/>
+                <prop id="19" list="0" val="0.0"/>
+                <prop id="20" list="0" val=""/>
+                <prop id="22" list="0" val="0.0"/>
+                <prop id="23" list="0" val="false"/>
+                <prop id="24" list="0" val="21"/>
+                <prop id="25" list="0" val="0.0"/>
+                <prop id="26" list="0" val="-1"/>
+                <prop id="27" list="0" val="0.0"/>
+                <prop id="28" list="0" val="1.0"/>
+                <prop id="29" list="0" val="0.0"/>
+                <prop id="30" list="0" val="0"/>
+                <prop id="31" list="0" val="0"/>
+                <prop id="32" list="0" val="-1"/>
+                <prop id="39" list="0" val="0,0,0,255"/>
+                <prop id="41" list="0" val="0,0,0,255"/>
+                <prop id="42" list="0" val="0,0,0,255"/>
+                <prop id="43" list="0" val="0,0,0,255"/>
+                <prop id="44" list="0" val="0,0,0,255"/>
+                <prop id="45" list="0" val="0,0,0,255"/>
+                <prop id="46" list="0" val="true"/>
+            </s>
+            <s enabled="false" id="10">
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
+        </snippets>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" id="38" name="Gravity Rocket" readable="false" shared="false">
+        <anim across="1" down="1" durations="100" height="214" id="0" loop="true" name="Animation 0" numframes="1" originx="23" originy="107" sync="false" version="2" width="46">
+            <poly data="4,0,0,46,0,46,214,0,214" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <custom-block blocktag="custom-16" blocktype="ACTION" code=".say(&quot;Health Manager&quot;, &quot;_customBlock_Heal&quot;, []);" desc="Adds a specific amount of health to the Actor." global="false" gui="Heal %0 By %1" id="16" message="Heal" name="Heal" oid="-1" return="void" shared="false" snippetID="8">
+        <blank name="Self" order="0" type="actor"/>
+        <blank name="Amount" order="1" type="number"/>
+    </custom-block>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="12" fixedrot="false" fric="0.2" gid="3" id="24" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Heart" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="25" static="true">
+        <snippets>
+            <s enabled="false" id="11">
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
+        </snippets>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" id="25" name="Heart" readable="false" shared="false">
+        <anim across="1" down="1" durations="100" height="32" id="0" loop="true" name="Heart" numframes="1" originx="16" originy="16" sync="false" version="2" width="32">
+            <poly data="4,0,0,32,0,32,32,0,32" density="0.1" fric="0.2" gid="4" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+            <circle data="16,0,0" density="0.1" fric="0.2" gid="-1000" id="1" name="Circle" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="32" fixedrot="false" fric="0.2" gid="3" id="50" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="MainMenu_Authors" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="51" static="true">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" id="51" name="MainMenu_Authors" readable="false" shared="false">
+        <anim across="1" down="1" durations="100" height="32" id="0" loop="true" name="Animation 0" numframes="1" originx="270" originy="16" sync="false" version="2" width="540">
+            <poly data="4,0,0,540,0,540,32,0,32" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="29" fixedrot="false" fric="0.2" gid="3" id="44" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="MainMenu_StartGame" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="45" static="true">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" id="45" name="MainMenu_StartGame" readable="false" shared="false">
+        <anim across="1" down="1" durations="100" height="18" id="0" loop="true" name="Animation 0" numframes="1" originx="56" originy="9" sync="false" version="2" width="112">
+            <poly data="4,0,0,112,0,112,18,0,18" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="28" fixedrot="false" fric="0.2" gid="3" id="42" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="MainMenu_Title" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="43" static="true">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" id="43" name="MainMenu_Title" readable="false" shared="false">
+        <anim across="1" down="1" durations="100" height="64" id="0" loop="true" name="Animation 0" numframes="1" originx="80" originy="32" sync="false" version="2" width="160">
+            <poly data="4,0,0,160,0,160,64,0,64" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="" eventsnippetid="0" fixedrot="true" fric="0.2" gid="3" id="0" ignoreg="true" inertia="1.0" ldamp="0.0" mass="1.0" name="Player" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="1" static="false">
+        <snippets>
+            <s enabled="false" id="16">
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
+            <s enabled="true" id="2">
+                <prop id="32" list="0" val="down"/>
+                <prop id="2147483647" list="0" val="thisactor"/>
+                <prop id="33" list="0" val="left"/>
+                <prop id="34" list="0" val="right"/>
+                <prop id="38" list="0" val="0.0"/>
+                <prop id="39" list="0" val="0.0"/>
+                <prop id="40" list="0" val="true"/>
+                <prop id="11" list="0" val="15"/>
+                <prop id="44" list="0" val="false"/>
+                <prop id="45" list="0" val="false"/>
+                <prop id="46" list="0" val="true"/>
+                <prop id="47" list="0" val="false"/>
+                <prop id="49" list="0" val="false"/>
+                <prop id="50" list="0" val="UpIdle"/>
+                <prop id="51" list="0" val="UpWalk"/>
+                <prop id="52" list="0" val="DownIdle"/>
+                <prop id="53" list="0" val="DownWalk"/>
+                <prop id="54" list="0" val=""/>
+                <prop id="55" list="0" val=""/>
+                <prop id="56" list="0" val=""/>
+                <prop id="57" list="0" val=""/>
+                <prop id="58" list="0" val="true"/>
+                <prop id="31" list="0" val="up"/>
+            </s>
+            <s enabled="true" id="11">
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
+        </snippets>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" id="1" name="Player" readable="false" shared="false">
+        <anim across="3" down="2" durations="83,83,83,83,83,83" height="128" id="0" loop="true" name="DownIdle" numframes="6" originx="32" originy="32" sync="false" version="2" width="192">
+            <poly data="4,0,0,64,0,64,64,0,64" density="0.1" fric="0.2" gid="-1000" id="0" name="DownIdle" rest="0.0" sensor="false"/>
+        </anim>
+        <anim across="3" down="3" durations="83,83,83,83,83,83,83,83" height="192" id="1" loop="true" name="DownWalk" numframes="8" originx="32" originy="32" sync="false" version="2" width="192">
+            <poly data="4,0,0,64,0,64,64,0,64" density="0.1" fric="0.2" gid="-1000" id="0" name="DownWalk" rest="0.0" sensor="false"/>
+        </anim>
+        <anim across="3" down="2" durations="83,83,83,83,83,83" height="128" id="2" loop="true" name="UpIdle" numframes="6" originx="32" originy="32" sync="false" version="2" width="192">
+            <poly data="4,0,0,64,0,64,64,0,64" density="0.1" fric="0.2" gid="-1000" id="0" name="UpIdle" rest="0.0" sensor="false"/>
+        </anim>
+        <anim across="3" down="3" durations="83,83,83,83,83,83,83,83" height="192" id="3" loop="true" name="UpWalk" numframes="8" originx="32" originy="32" sync="false" version="2" width="192">
+            <poly data="4,0,0,64,0,64,64,0,64" density="0.1" fric="0.2" gid="-1000" id="0" name="UpWalk" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="" eventsnippetid="9" fixedrot="true" fric="0.2" gid="3" id="21" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Rocket" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="22" static="false">
+        <snippets>
+            <s enabled="true" id="17">
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
+            <s enabled="true" id="2">
+                <prop id="32" list="0" val="down"/>
+                <prop id="2147483647" list="0" val="thisactor"/>
+                <prop id="33" list="0" val="left"/>
+                <prop id="34" list="0" val="right"/>
+                <prop id="38" list="0" val="0.0"/>
+                <prop id="39" list="0" val="0.0"/>
+                <prop id="40" list="0" val="true"/>
+                <prop id="11" list="0" val="30.0"/>
+                <prop id="44" list="0" val="false"/>
+                <prop id="45" list="0" val="false"/>
+                <prop id="46" list="0" val="true"/>
+                <prop id="47" list="0" val="false"/>
+                <prop id="49" list="0" val="false"/>
+                <prop id="50" list="0" val=""/>
+                <prop id="51" list="0" val=""/>
+                <prop id="52" list="0" val=""/>
+                <prop id="53" list="0" val=""/>
+                <prop id="54" list="0" val=""/>
+                <prop id="55" list="0" val=""/>
+                <prop id="56" list="0" val=""/>
+                <prop id="57" list="0" val=""/>
+                <prop id="58" list="0" val="true"/>
+                <prop id="31" list="0" val="up"/>
+            </s>
+            <s enabled="true" id="18">
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
+            <s enabled="true" id="6">
+                <prop id="2147483647" list="0" val="thisactor"/>
+                <prop id="2" list="0" val="0.0"/>
+            </s>
+            <s enabled="true" id="8">
+                <prop id="2147483647" list="0" val="thisactor"/>
+                <prop id="1" list="0" val="5"/>
+                <prop id="2" list="0" val="5"/>
+                <prop id="3" list="0" val="3.0"/>
+                <prop id="4" list="0" val="Healed"/>
+                <prop id="5" list="0" val="Damaged"/>
+                <prop id="7" list="0" val="Kill"/>
+                <prop id="8" list="0" val="false"/>
+                <prop id="9" list="0" val="1"/>
+                <prop id="10" list="0" val="true"/>
+                <prop id="11" list="0" val="false"/>
+                <prop id="12" list="0" val="Lives"/>
+                <prop id="13" list="0" val=""/>
+                <prop id="14" list="0" val="-1"/>
+                <prop id="15" list="0" val="-1"/>
+                <prop id="16" list="0" val="-1"/>
+                <prop id="17" list="0" val="false"/>
+                <prop id="18" list="0" val="0.0"/>
+                <prop id="19" list="0" val="0.0"/>
+                <prop id="20" list="0" val=""/>
+                <prop id="22" list="0" val="0.0"/>
+                <prop id="23" list="0" val="false"/>
+                <prop id="24" list="0" val="21"/>
+                <prop id="25" list="0" val="0.0"/>
+                <prop id="26" list="0" val="-1"/>
+                <prop id="27" list="0" val="0.0"/>
+                <prop id="28" list="0" val="1.0"/>
+                <prop id="29" list="0" val="0.0"/>
+                <prop id="30" list="0" val="0"/>
+                <prop id="31" list="0" val="0"/>
+                <prop id="32" list="0" val="-1"/>
+                <prop id="39" list="0" val="0,0,0,255"/>
+                <prop id="41" list="0" val="0,0,0,255"/>
+                <prop id="42" list="0" val="0,0,0,255"/>
+                <prop id="43" list="0" val="0,0,0,255"/>
+                <prop id="44" list="0" val="0,0,0,255"/>
+                <prop id="45" list="0" val="0,0,0,255"/>
+                <prop id="46" list="0" val="true"/>
+            </s>
+            <s enabled="false" id="10">
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
+        </snippets>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" id="22" name="Rocket" readable="false" shared="false">
+        <anim across="1" down="1" durations="100" height="214" id="0" loop="true" name="Animation 0" numframes="1" originx="23" originy="107" sync="false" version="2" width="46">
+            <poly data="5,23,3,15,81,15,203,33,203,33,81" density="0.1" fric="0.2" gid="-1000" id="0" name="" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="1" continuous="true" desc="" eventsnippetid="37" fixedrot="true" fric="0.2" gid="3" id="59" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Rocket Copy" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="60" static="false">
+        <snippets>
+            <s enabled="true" id="17">
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
+            <s enabled="true" id="2">
+                <prop id="32" list="0" val="down"/>
+                <prop id="2147483647" list="0" val="thisactor"/>
+                <prop id="33" list="0" val="left"/>
+                <prop id="34" list="0" val="right"/>
+                <prop id="38" list="0" val="0.0"/>
+                <prop id="39" list="0" val="0.0"/>
+                <prop id="40" list="0" val="true"/>
+                <prop id="11" list="0" val="30.0"/>
+                <prop id="44" list="0" val="false"/>
+                <prop id="45" list="0" val="false"/>
+                <prop id="46" list="0" val="false"/>
+                <prop id="47" list="0" val="false"/>
+                <prop id="49" list="0" val="false"/>
+                <prop id="50" list="0" val=""/>
+                <prop id="51" list="0" val=""/>
+                <prop id="52" list="0" val=""/>
+                <prop id="53" list="0" val=""/>
+                <prop id="54" list="0" val=""/>
+                <prop id="55" list="0" val=""/>
+                <prop id="56" list="0" val=""/>
+                <prop id="57" list="0" val=""/>
+                <prop id="58" list="0" val="true"/>
+                <prop id="31" list="0" val="up"/>
+            </s>
+            <s enabled="true" id="18">
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
+            <s enabled="true" id="6">
+                <prop id="2147483647" list="0" val="thisactor"/>
+                <prop id="2" list="0" val="0.0"/>
+            </s>
+            <s enabled="true" id="8">
+                <prop id="2147483647" list="0" val="thisactor"/>
+                <prop id="1" list="0" val="5"/>
+                <prop id="2" list="0" val="5"/>
+                <prop id="3" list="0" val="3.0"/>
+                <prop id="4" list="0" val="Healed"/>
+                <prop id="5" list="0" val="Damaged"/>
+                <prop id="7" list="0" val="Kill"/>
+                <prop id="8" list="0" val="false"/>
+                <prop id="9" list="0" val="1"/>
+                <prop id="10" list="0" val="true"/>
+                <prop id="11" list="0" val="false"/>
+                <prop id="12" list="0" val="Lives"/>
+                <prop id="13" list="0" val=""/>
+                <prop id="14" list="0" val="-1"/>
+                <prop id="15" list="0" val="-1"/>
+                <prop id="16" list="0" val="-1"/>
+                <prop id="17" list="0" val="false"/>
+                <prop id="18" list="0" val="0.0"/>
+                <prop id="19" list="0" val="0.0"/>
+                <prop id="20" list="0" val=""/>
+                <prop id="22" list="0" val="0.0"/>
+                <prop id="23" list="0" val="false"/>
+                <prop id="24" list="0" val="21"/>
+                <prop id="25" list="0" val="0.0"/>
+                <prop id="26" list="0" val="-1"/>
+                <prop id="27" list="0" val="0.0"/>
+                <prop id="28" list="0" val="1.0"/>
+                <prop id="29" list="0" val="0.0"/>
+                <prop id="30" list="0" val="0"/>
+                <prop id="31" list="0" val="0"/>
+                <prop id="32" list="0" val="-1"/>
+                <prop id="39" list="0" val="0,0,0,255"/>
+                <prop id="41" list="0" val="0,0,0,255"/>
+                <prop id="42" list="0" val="0,0,0,255"/>
+                <prop id="43" list="0" val="0,0,0,255"/>
+                <prop id="44" list="0" val="0,0,0,255"/>
+                <prop id="45" list="0" val="0,0,0,255"/>
+                <prop id="46" list="0" val="true"/>
+            </s>
+            <s enabled="false" id="10">
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
+        </snippets>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" id="60" name="Rocket Copy" readable="false" shared="false">
+        <anim across="1" down="1" durations="100" height="214" id="0" loop="true" name="Animation 0" numframes="1" originx="23" originy="107" sync="false" version="2" width="46">
+            <poly data="5,23,3,15,81,15,203,33,203,33,81" density="0.1" fric="0.2" gid="-1000" id="0" name="" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="" eventsnippetid="22" fixedrot="true" fric="0.2" gid="3" id="35" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Rocket static" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="36" static="false">
+        <snippets>
+            <s enabled="true" id="17">
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
+            <s enabled="false" id="2">
+                <prop id="32" list="0" val="down"/>
+                <prop id="2147483647" list="0" val="thisactor"/>
+                <prop id="33" list="0" val="left"/>
+                <prop id="34" list="0" val="right"/>
+                <prop id="38" list="0" val="0.0"/>
+                <prop id="39" list="0" val="0.0"/>
+                <prop id="40" list="0" val="true"/>
+                <prop id="11" list="0" val="30.0"/>
+                <prop id="44" list="0" val="false"/>
+                <prop id="45" list="0" val="false"/>
+                <prop id="46" list="0" val="true"/>
+                <prop id="47" list="0" val="false"/>
+                <prop id="49" list="0" val="false"/>
+                <prop id="50" list="0" val=""/>
+                <prop id="51" list="0" val=""/>
+                <prop id="52" list="0" val=""/>
+                <prop id="53" list="0" val=""/>
+                <prop id="54" list="0" val=""/>
+                <prop id="55" list="0" val=""/>
+                <prop id="56" list="0" val=""/>
+                <prop id="57" list="0" val=""/>
+                <prop id="58" list="0" val="true"/>
+                <prop id="31" list="0" val="up"/>
+            </s>
+            <s enabled="true" id="18">
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
+            <s enabled="true" id="6">
+                <prop id="2147483647" list="0" val="thisactor"/>
+                <prop id="2" list="0" val="0.0"/>
+            </s>
+            <s enabled="false" id="8">
+                <prop id="2147483647" list="0" val="thisactor"/>
+                <prop id="1" list="0" val="5"/>
+                <prop id="2" list="0" val="5"/>
+                <prop id="3" list="0" val="3.0"/>
+                <prop id="4" list="0" val="Healed"/>
+                <prop id="5" list="0" val="Damaged"/>
+                <prop id="7" list="0" val="Kill"/>
+                <prop id="8" list="0" val="false"/>
+                <prop id="9" list="0" val="1"/>
+                <prop id="10" list="0" val="true"/>
+                <prop id="11" list="0" val="false"/>
+                <prop id="12" list="0" val="Lives"/>
+                <prop id="13" list="0" val=""/>
+                <prop id="14" list="0" val="-1"/>
+                <prop id="15" list="0" val="-1"/>
+                <prop id="16" list="0" val="-1"/>
+                <prop id="17" list="0" val="false"/>
+                <prop id="18" list="0" val="0.0"/>
+                <prop id="19" list="0" val="0.0"/>
+                <prop id="20" list="0" val=""/>
+                <prop id="22" list="0" val="0.0"/>
+                <prop id="23" list="0" val="false"/>
+                <prop id="24" list="0" val="21"/>
+                <prop id="25" list="0" val="0.0"/>
+                <prop id="26" list="0" val="-1"/>
+                <prop id="27" list="0" val="0.0"/>
+                <prop id="28" list="0" val="1.0"/>
+                <prop id="29" list="0" val="0.0"/>
+                <prop id="30" list="0" val="0"/>
+                <prop id="31" list="0" val="0"/>
+                <prop id="32" list="0" val="-1"/>
+                <prop id="39" list="0" val="0,0,0,255"/>
+                <prop id="41" list="0" val="0,0,0,255"/>
+                <prop id="42" list="0" val="0,0,0,255"/>
+                <prop id="43" list="0" val="0,0,0,255"/>
+                <prop id="44" list="0" val="0,0,0,255"/>
+                <prop id="45" list="0" val="0,0,0,255"/>
+                <prop id="46" list="0" val="true"/>
+            </s>
+            <s enabled="false" id="10">
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
+        </snippets>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" id="36" name="Rocket static" readable="false" shared="false">
+        <anim across="1" down="1" durations="100" height="214" id="0" loop="true" name="Animation 0" numframes="1" originx="23" originy="107" sync="false" version="2" width="46">
+            <poly data="4,0,0,46,0,46,214,0,214" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <custom-block blocktag="custom-14" blocktype="ACTION" code=".say(&quot;Health Manager&quot;, &quot;_customBlock_SetHealth&quot;, []);" desc="" global="false" gui="Set Health For %0 To %1" id="14" message="SetHealth" name="SetHealth" oid="-1" return="void" shared="false" snippetID="8">
+        <blank name="Self" order="0" type="actor"/>
+        <blank name="Amount" order="1" type="number"/>
+    </custom-block>
+    <custom-block blocktag="custom-13" blocktype="ACTION" code=".say(&quot;Health Manager&quot;, &quot;_customBlock_SetInvincibility&quot;, []);" desc="" global="false" gui="Set Invincibility For %0 to %1" id="13" message="SetInvincibility" name="SetInvincibility" oid="-1" return="void" shared="false" snippetID="8">
+        <blank name="Self" order="0" type="actor"/>
+        <blank name="Status" order="1" type="boolean"/>
+    </custom-block>
+    <background atlasID="0" desc="" durations="100" dx="-0.0" dy="-0.0" height="720" id="34" name="SpaceBackground" numframes="1" oid="-1" readable="false" repeats="false" resized="false" shared="false" width="1280" xpf="1.0" ypf="1.0"/>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="39" fixedrot="false" fric="0.2" gid="3" id="61" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Spike Advanced Tile" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="62" static="true">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" id="62" name="Spike Advanced Tile" readable="false" shared="false">
+        <anim across="1" down="1" durations="100" height="32" id="0" loop="true" name="Animation 0" numframes="1" originx="16" originy="16" sync="false" version="2" width="32">
+            <poly data="3,16,0,0,32,31,32" density="0.1" fric="0.2" gid="-1000" id="0" name="" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <background atlasID="0" desc="" durations="100" dx="-0.0" dy="5.0" height="75" id="41" name="Stars" numframes="1" oid="-1" readable="false" repeats="true" resized="false" shared="false" width="75" xpf="1.0" ypf="1.0"/>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="" eventsnippetid="34" fixedrot="true" fric="0.2" gid="3" id="55" ignoreg="true" inertia="1.0" ldamp="0.0" mass="1.0" name="Static Player" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="56" static="false">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" id="56" name="Static Player" readable="false" shared="false">
+        <anim across="3" down="2" durations="83,83,83,83,83,83" height="128" id="0" loop="true" name="DownIdle" numframes="6" originx="32" originy="32" sync="false" version="2" width="192">
+            <poly data="4,0,0,64,0,64,64,0,64" density="0.1" fric="0.2" gid="-1000" id="0" name="DownIdle" rest="0.0" sensor="false"/>
+        </anim>
+        <anim across="3" down="3" durations="83,83,83,83,83,83,83,83" height="192" id="1" loop="true" name="DownWalk" numframes="8" originx="32" originy="32" sync="false" version="2" width="192">
+            <poly data="4,0,0,64,0,64,64,0,64" density="0.1" fric="0.2" gid="-1000" id="0" name="DownWalk" rest="0.0" sensor="false"/>
+        </anim>
+        <anim across="3" down="2" durations="83,83,83,83,83,83" height="128" id="2" loop="true" name="UpIdle" numframes="6" originx="32" originy="32" sync="false" version="2" width="192">
+            <poly data="4,0,0,64,0,64,64,0,64" density="0.1" fric="0.2" gid="-1000" id="0" name="UpIdle" rest="0.0" sensor="false"/>
+        </anim>
+        <anim across="3" down="3" durations="83,83,83,83,83,83,83,83" height="192" id="3" loop="true" name="UpWalk" numframes="8" originx="32" originy="32" sync="false" version="2" width="192">
+            <poly data="4,0,0,64,0,64,64,0,64" density="0.1" fric="0.2" gid="-1000" id="0" name="UpWalk" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="0" continuous="true" desc="" eventsnippetid="31" fixedrot="false" fric="0.2" gid="3" id="48" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Static Rocket" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="49" static="true">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" id="49" name="Static Rocket" readable="false" shared="false">
+        <anim across="1" down="1" durations="100" height="214" id="0" loop="true" name="Animation 0" numframes="1" originx="23" originy="107" sync="false" version="2" width="46">
+            <poly data="4,0,0,46,0,46,214,0,214" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <background atlasID="0" desc="" durations="100" dx="-0.0" dy="-0.0" height="75" id="52" name="Static Stars" numframes="1" oid="-1" readable="false" repeats="true" resized="false" shared="false" width="75" xpf="1.0" ypf="1.0"/>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="" eventsnippetid="40" fixedrot="false" fric="0.2" gid="3" id="65" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="US Flag" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="66" static="false">
+        <snippets/>
+    </actor>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" id="66" name="US Flag" readable="false" shared="false">
+        <anim across="1" down="1" durations="100" height="43" id="0" loop="true" name="Animation 0" numframes="1" originx="36" originy="21" sync="false" version="2" width="73">
+            <poly data="4,0,0,73,0,73,43,0,43" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+</pack>

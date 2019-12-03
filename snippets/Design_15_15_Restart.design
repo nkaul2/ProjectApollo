@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <event-type-create-kill comment="false" x="15" y="15">
+            <group eventID="1" id="-1">
+                <set-game-val-0 comment="false" x="26" y="47">
+                    <int id="0" val="3"/>
+                </set-game-val-0>
+                <scene-reload-through comment="false" x="26" y="67">
+                    <int id="0" val="0"/>
+                    <int id="1" val="0"/>
+                </scene-reload-through>
+            </group>
+            <int id="0" val="1"/>
+            <actortype eid="0" id="1"/>
+        </event-type-create-kill>
+    </group>
+    <group eventID="1" id="-1"/>
+</groups>
